@@ -7,7 +7,7 @@ import CheckoutHookForm from "../fronted/componentes/CheckoutHookForm";
 import Cart from "../fronted/componentes/Cart";
 import NavbarBootstrap from "../fronted/componentes/NavbarBootstrap";
 import FooterPeru from "../fronted/componentes/FooterPeru";
-import Productos from "../fronted/componentes/productos";
+import Productos from "../fronted/componentes/Productos";
 
 function App() {
   return (
