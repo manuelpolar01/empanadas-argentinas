@@ -1,0 +1,43 @@
+/* RESET GLOBAL */
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  width: 100%;
+}
+
+html, body{
+  width:100%;
+  overflow-x:hidden;
+  font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* espacio para navbar fixed */
+
+body{
+  padding-top:80px;
+}
+
+/* CONTENEDOR PROFESIONAL */
+
+.container{
+  width:100%;
+  max-width:1200px;
+  margin:auto;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+/* IMÁGENES */
+
+img{
+  width:100%;
+  display:block;
+}
+
+/* CARDS */
+
+.card{
+  padding:20px;
+}
