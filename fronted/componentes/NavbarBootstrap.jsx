@@ -2,7 +2,7 @@ import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 import CartWidget from "./CartWidget";
-import "../css/navbar.css";
+import "../css/Navbar.css";
 
 const NavbarBootstrap = () => {
   const [open, setOpen] = useState(false);
